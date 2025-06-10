@@ -1,2 +1,5 @@
 # dynamic-programming
-Dynamic programming practice
+
+![alt text](image.png)
+
+Repo to practice dynamic programming problems. 
